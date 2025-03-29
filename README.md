@@ -829,7 +829,7 @@ to successfully speculate on shitcoins._
 
 ### Javascript
 
-- https://www.javatpoint.com/how-to-add-javascript-to-html
+- https://www.tpointtech.com/how-to-add-javascript-to-html
 - https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript
 - https://javascript.info/websocket
 - https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
